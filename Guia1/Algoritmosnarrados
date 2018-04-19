@@ -1,0 +1,102 @@
+Ejercicio 1
+1) Declarar cuatro variables de tipo float (Nota 1, nota 2, nota 3 y promedio) y una de tipo int (matrícula).
+2)Recibir y guardar los valores
+3) Calcular la variable promedio.
+Se realiza: Promedio= (Nota1 +Nota 2+Nota 3)/3.
+4)Se imprime el valor.
+5)Retorna 0.
+
+
+Ejercicio 2
+1) Declarar tres variables de tipo int (número, cuadrado y cubo).
+2) Recibir y guardar los valores.
+3) Calcular la variable cuadrado
+Se realiza: Cuadrado= (número*número)
+4) Se imprime el valor del ejercicio realizado.
+5)Calcular la variable cubo
+Se realiza: Cubo= (cuadrado*número).
+6) Se imprime el resultado del ejercicio anterior.
+7) Retorna 0.
+
+
+Ejercicio 3
+1) Declarar tres variables de tipo int (a, b e hipotenusa), las variables a y b están definidas con los valores 5 y 12 respectivamente.
+2) Calcular la variable hipotenusa
+Se realiza: Hipotenusa= (a*a)+(b*b)
+3)Se imprime el resultado del ejercicio.
+4)Retorna 0.
+
+
+Ejercicio 4
+1) Declarar 4 variables de tipo int (altura, base, periodo y superficie), las variables altura y base están definida por los valores 8 y 5 respectivamente.
+2) Cálcular la variable periodo
+Se realiza: Periodo= (2*(base+altura))
+3)Se imprime el resultado del cálculo de la variable periodo.
+4) Cálcular la variable superficie.
+Se realiza: Superficie= (base*altura).
+5)Imprimir el resultado del ejercicio anterior.
+6)Retorno 0.
+
+
+Ejercicio 5
+1) Declarar una cadena de caracteres  y 4 variables float (peso, longitud, libras y pies).
+2) Recibir y guardar los valores.
+3)Cálcular la variable peso
+Se realiza: (libras * 0.45)
+4)Imprimir el resultado de la variable peso en kilogramos.
+5) Cálcular la variable longitud en metros.
+Se realiza: (pies * 0.3048).
+6) Se imprime el resultado.
+7)Escribir el nombre del dinosaurio.
+8) Retorna 0.
+
+
+Ejercicio 6
+1) Declarar dos variables de tipo int (galones y valor _del_litros) y una variable float (valor_del_litro).
+2) Recibir  y guardar los valores pedidos.
+3) Cálcular la variable cantidad_de_litros
+Se realiza: galones * 3.785
+4)Se imprime el resultado de la variable anterior.
+5) Cálcular la variable valor_del_litro
+Se realiza: cantidad_de_litros * 820
+6) Imprimir el resultado del ejercicio anterior.
+7) Retorna 0.
+
+
+Ejercicio 7
+1)Declarar dos variables de tipo int (Dias y calculo)
+2)Recibir y guardar los datos.
+3) Cálcular la variable calcula la que transformara una cierta cantidad de dias en segundos.
+Se realiza: Calculo= (((Dias*24)*60)*60).
+4)Imprimir el resultado de la variable calculo.
+5)Retornar 0
+
+
+Ejercicio 8
+1) Declarar dos variables de tipo float (x y ejercicio).
+2)Recibir y guardar los datos de la variable x.
+3) Realizar el ejercicio de la variable “ejercicio”.
+Se realiza: ejercicio = (x*x*x) + 2*(x*x) + 3*(x) +5
+4) Se imprime el resultado de la operación realizada.
+5) Retorna 0.
+
+
+Ejercicio 9
+1)Declarar 4 variables de tipo int (comision, ventas, sueldo_total, sueldo_base)
+2)Recibir y guardar los datos.
+3)Cálcular la variable comision
+Se realiza: ((ventas*7)/100).
+4)Se imprime el resultado de la variable comision 
+5) Cálcular la variable sueldo_total
+Se realiza: (sueldo_base + comision)
+6) Imprimir el resultado de la variable sueldo_total.
+7)Retorna 0.
+
+
+Ejercicio 10
+1)Declarar tres variables de tipo int (kilometros, costo_por_kilometro y costo_boleto)
+2) Recibir y guardar datos.
+3)Cálcular la variable costo-boleto
+Se realiza: (kilometros *costo_por_kilometro).
+4)Imprimir el resultado de la variable costo_boleto.
+5)Retorna 0.
