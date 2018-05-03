@@ -1,11 +1,15 @@
 /* Algoritmo narrado
- * 
- * 
+ * Inicar una funcion 
+ * Realizar el calculo de la probabilidad de infeccion
+ * retornar cero
+ * inicar int main 
+ * llamar a la funcion
+ * retornar cero
  * */
  #include <stdio.h>
 
 float probabilidad_de_infeccion (){
-	float poblacion =10000;
+	float poblacion =100000;
 	float porcentaje = 0.01;
 	float resultado;
 	
