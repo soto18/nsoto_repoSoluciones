@@ -5,11 +5,12 @@
  * inicar int main 
  * llamar a la funcion
  * retornar cero
+ * 
  * */
  #include <stdio.h>
 
 float probabilidad_de_infeccion (){
-	float poblacion =100000;
+	float poblacion =10000;
 	float porcentaje = 0.01;
 	float resultado;
 	
